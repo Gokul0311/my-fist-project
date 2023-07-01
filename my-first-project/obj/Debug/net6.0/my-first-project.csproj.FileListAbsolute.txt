@@ -1,0 +1,15 @@
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\bin\Debug\net6.0\my-first-project.exe
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\bin\Debug\net6.0\my-first-project.deps.json
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\bin\Debug\net6.0\my-first-project.runtimeconfig.json
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\bin\Debug\net6.0\my-first-project.dll
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\bin\Debug\net6.0\my-first-project.pdb
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\my-first-project.csproj.AssemblyReference.cache
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\my-first-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\my-first-project.AssemblyInfoInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\my-first-project.AssemblyInfo.cs
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\my-first-project.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\my-first-project.dll
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\refint\my-first-project.dll
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\my-first-project.pdb
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\my-first-project.genruntimeconfig.cache
+C:\Users\Gokul\OneDrive\Desktop\Gokul\my-fist-project\my-first-project\obj\Debug\net6.0\ref\my-first-project.dll
