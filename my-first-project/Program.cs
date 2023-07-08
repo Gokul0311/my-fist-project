@@ -7,13 +7,30 @@ namespace my_first_project
     {
         static void Main(string[] args)
         {
-            Console.Write("enter first number:");
-            int sum1 =int.Parse(Console.ReadLine());
-            Console.Write("enter second number:");
-            int sum2 =int.Parse(Console.ReadLine());
-            int result  = sum1 + sum2;
-            string word = result.ToString();
-            Console.WriteLine("result is " +word );
+            Console.Write("enter three number:");
+            int num = int.Parse(Console.ReadLine ());
+            //Console.WriteLine(value / 100);
+            switch(num)
+            {
+                case<10:
+                    Console.WriteLine(num);
+                    break;
+                case<100:
+                    Console.WriteLine(num / 10);
+                    break;
+                case<1000:
+                    Console.WriteLine(num / 100);
+                    break;
+                case<10000:
+                    Console.WriteLine(num / 1000);
+                    break;
+                default:
+                    Console.WriteLine("enter below tenthousand");
+                    break;
+                
+          
+                    
+            }   
         }
     }
 }
